@@ -1,12 +1,12 @@
 # MarianaLopes
 
-Estou cursando Desenvolvimento de Software Multiplataforma na Fatec. Este é o meu primeiro semestre da faculdade e estou aprendendo muitas ferramentas interessantes e novas pra mim, como metodologia Scrum, ferramentas como Node.JS e Figma.
+Este é o meu repositório de ideias, projetos e provas de conceito.
 
-💻 Meu maior interesse atualmente é em Frontend. Tenho praticado muito criar páginas com HTML5, CSS3 e JavaScrpit. Tenho alguns repositórios que demonstram o que eu tenho feito nos últimos meses :)
+💻 Meus repositórios que demonstram o que eu tenho feito nos últimos meses.
 
-⚡ Meus próximos passos são: ter mais conhecimento e prática em JavaScript e aprender React.
+⚡ Meus próximos passos são: ter mais conhecimento e prática em ECMAScript e aprender React.
 
-❤️ Adoro o GitHub.
+
 
 
 
