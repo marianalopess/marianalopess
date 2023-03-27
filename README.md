@@ -1,8 +1,6 @@
 # MarianaLopes
 
-Este é o meu repositório de ideias, projetos e provas de conceito.
-
-💻 Meus repositórios que demonstram o que eu tenho feito nos últimos meses.
+💻 Estes são meus repositórios de ideias, projetos e provas de conceito. É isso que tenho praticado nos últimos meses.
 
 ⚡ Meus próximos passos são: ter mais conhecimento e prática em ECMAScript e aprender React.
 
